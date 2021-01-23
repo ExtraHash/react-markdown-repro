@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-markdown-repro/static/css/main.e75e5893.chunk.css",
+    "main.js": "/react-markdown-repro/static/js/main.4a76cc7f.chunk.js",
+    "main.js.map": "/react-markdown-repro/static/js/main.4a76cc7f.chunk.js.map",
+    "runtime-main.js": "/react-markdown-repro/static/js/runtime-main.427c0847.js",
+    "runtime-main.js.map": "/react-markdown-repro/static/js/runtime-main.427c0847.js.map",
+    "static/js/2.760ade0b.chunk.js": "/react-markdown-repro/static/js/2.760ade0b.chunk.js",
+    "static/js/2.760ade0b.chunk.js.map": "/react-markdown-repro/static/js/2.760ade0b.chunk.js.map",
+    "static/js/3.3f19dc3f.chunk.js": "/react-markdown-repro/static/js/3.3f19dc3f.chunk.js",
+    "static/js/3.3f19dc3f.chunk.js.map": "/react-markdown-repro/static/js/3.3f19dc3f.chunk.js.map",
+    "index.html": "/react-markdown-repro/index.html",
+    "static/css/main.e75e5893.chunk.css.map": "/react-markdown-repro/static/css/main.e75e5893.chunk.css.map",
+    "static/js/2.760ade0b.chunk.js.LICENSE.txt": "/react-markdown-repro/static/js/2.760ade0b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.427c0847.js",
+    "static/js/2.760ade0b.chunk.js",
+    "static/css/main.e75e5893.chunk.css",
+    "static/js/main.4a76cc7f.chunk.js"
+  ]
+}
